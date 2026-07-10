@@ -622,7 +622,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Centered What We Do Section Layout */
 .section-header-centered {
   text-align: center;
-  max-width: 800px;
+  max-width: 1150px;
   margin: 0 auto 60px auto;
 }
 
@@ -664,7 +664,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .grid-section-header-centered {
   text-align: center;
-  max-width: 700px;
+  max-width: 1150px;
   margin: 0 auto 40px auto;
 }
 
